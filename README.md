@@ -42,4 +42,4 @@ const developer = {
 
 ## Contact me!
 - **Email**: contact.tappo@gmail.com
-- **website**: Coming soon!
+- **website**: [tappodev.com](https://tappodev.com/index.html) (italian website for now)
