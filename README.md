@@ -43,3 +43,4 @@ const developer = {
 ## Contact me!
 - **Email**: contact.tappo@gmail.com
 - **website**: [tappodev.com](https://tappodev.com/index.html) (italian website for now)
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y1B322EL7Z)
